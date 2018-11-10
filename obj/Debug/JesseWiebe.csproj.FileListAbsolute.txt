@@ -1,0 +1,7 @@
+C:\Users\Jesse\Documents\TechnicalChallenges\LocationArithmetic\LocationArithmetic\bin\Debug\LocationArithmetic.exe.config
+C:\Users\Jesse\Documents\TechnicalChallenges\LocationArithmetic\LocationArithmetic\bin\Debug\LocationArithmetic.exe
+C:\Users\Jesse\Documents\TechnicalChallenges\LocationArithmetic\LocationArithmetic\bin\Debug\LocationArithmetic.pdb
+C:\Users\Jesse\Documents\TechnicalChallenges\LocationArithmetic\LocationArithmetic\obj\Debug\JesseWiebe.csprojAssemblyReference.cache
+C:\Users\Jesse\Documents\TechnicalChallenges\LocationArithmetic\LocationArithmetic\obj\Debug\JesseWiebe.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Documents\TechnicalChallenges\LocationArithmetic\LocationArithmetic\obj\Debug\LocationArithmetic.exe
+C:\Users\Jesse\Documents\TechnicalChallenges\LocationArithmetic\LocationArithmetic\obj\Debug\LocationArithmetic.pdb
